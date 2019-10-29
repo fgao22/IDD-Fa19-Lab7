@@ -32,4 +32,5 @@ I installed the gm library to resize the image captured. I spent quite some time
 
 **b. Upload a video of your working modified project**
 
-[Zoom Doorbell](https://www.youtube.com/watch?v=jGnmPLySIpM)
+[Zoom Doorbell](https://www.youtube.com/watch?v=jGnmPLySIpM)  
+[Source Code](newPictureServer.js)
