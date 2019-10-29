@@ -29,6 +29,10 @@ function takePicture(){
   socket.emit('takePicture');
 }
 
+function zoom(){
+  socket.emit('zoom')
+}
+
 //-- Addition: This function receives the new image name and applies it to html element.
 
 socket.on('newPicture', function(msg) {
